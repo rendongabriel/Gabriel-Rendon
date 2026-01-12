@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Gabriel Rendon will be a data scientist and data analyst
 
-Template Name: MyPage
-Template URL: https://bootstrapmade.com/mypage-bootstrap-personal-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+https://rendongabriel.github.io/Gabriel-Rendon/
